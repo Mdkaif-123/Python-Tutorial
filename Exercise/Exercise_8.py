@@ -7,7 +7,7 @@ import os
 
 shout_out_names = ["Kaif", "Wasim", "Harry", "Niraj"]
 
-mytext="Welcome all of you,  here are the legends that have completed their task, \n "
+mytext = "Welcome all of you,  here are the legends that have completed their task, \n "
 for name in shout_out_names:
     mytext = mytext + f"Shout out to {name}\n "
 

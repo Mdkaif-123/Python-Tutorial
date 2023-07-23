@@ -6,6 +6,7 @@ file2 = open('./pdf//pdf1.pdf', 'rb')
 
 merger = PdfWriter()
 
+
 i=1
 for pdf in [file1, file2]:
     
